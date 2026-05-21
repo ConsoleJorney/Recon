@@ -1,0 +1,10 @@
+body {
+    margin: 0;
+    padding: 0;
+    overflow: hidden; /* Esconde barras de rolagem */
+    background-color: #03030c; /* Fundo escuro espacial */
+}
+
+canvas {
+    display: block; /* Remove pequenos espaços em branco abaixo do canvas */
+}
